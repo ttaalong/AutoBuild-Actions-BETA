@@ -26,7 +26,7 @@ on:
     inputs:
       Tempoary_CONFIG:
         description: '配置文件'
-        default: 'xiaoyu_xy-c5'
+        default: 'xiaoyu_xy-c5-Clash-Clash'
         type: choice
         options:
           - 'xiaoyu_xy-c5'
